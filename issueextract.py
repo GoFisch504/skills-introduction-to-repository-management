@@ -1,4 +1,3 @@
-pip install PyGithub
 import csv
 from github import Github
 

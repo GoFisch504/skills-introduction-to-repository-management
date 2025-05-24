@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @GoFisch504
+/src/backend/database.py      @GoFisch504
+/src/backend/routers/auth.py  @GoFisch504
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @GoFisch504
